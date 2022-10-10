@@ -44,3 +44,4 @@ create or replace view auth_token_account as
           on at.auth_account_id = aa.public_id;
 
 commit;
+

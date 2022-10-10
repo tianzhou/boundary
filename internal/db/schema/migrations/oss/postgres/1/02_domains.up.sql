@@ -56,3 +56,4 @@ comment on domain wt_description is
 'standard column for resource descriptions';
 
 commit;
+

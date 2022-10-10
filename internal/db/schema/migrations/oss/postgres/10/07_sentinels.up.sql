@@ -32,3 +32,4 @@ comment on domain wt_sentinel is
 drop function wt_to_sentinel; -- wt_to_sentinel is not needed, dropping and not re-creating
 
 commit;
+

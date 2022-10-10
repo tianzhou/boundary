@@ -21,3 +21,4 @@ delete from oplog_ticket where name in
 );
 
 commit;
+

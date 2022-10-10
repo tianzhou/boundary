@@ -16,3 +16,4 @@ begin;
   drop function target_scope_valid cascade;
 
 commit;
+

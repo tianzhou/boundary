@@ -84,3 +84,4 @@ comment on function kms_update_time_column() is
   'function used in before update triggers to properly set update_time columns';
 
 commit;
+

@@ -30,3 +30,4 @@ comment on function kms_version_column() is
   'function used in before insert triggers to properly set version columns for kms_* tables with a version column';
   
 commit;
+

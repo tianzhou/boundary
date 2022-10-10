@@ -352,3 +352,4 @@ create or replace function terminate_session_if_possible(terminate_session_id te
   $$ language plpgsql;
 
 commit;
+

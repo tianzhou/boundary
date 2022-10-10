@@ -49,3 +49,4 @@ create view session_list as
     s.public_id = sc.session_id;
 
 commit;
+

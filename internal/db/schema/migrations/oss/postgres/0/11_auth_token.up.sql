@@ -105,3 +105,4 @@ begin;
     for each row execute procedure immutable_columns('public_id', 'auth_account_id', 'create_time');
 
 commit;
+

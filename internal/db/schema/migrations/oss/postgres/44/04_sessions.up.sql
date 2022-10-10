@@ -76,3 +76,4 @@ begin;
       s.public_id = sc.session_id;
 
 commit;
+

@@ -104,3 +104,4 @@ create trigger wh_rollup_connections_on_session_termination after update of term
     for each row execute procedure wh_session_rollup();
 
 commit;
+

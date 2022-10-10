@@ -256,3 +256,4 @@ begin;
     for each row execute function wh_insert_session_connection_state();
 
 commit;
+

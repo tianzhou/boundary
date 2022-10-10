@@ -10,3 +10,4 @@ begin;
 
   analyze;
 commit;
+

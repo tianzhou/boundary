@@ -31,3 +31,4 @@ create trigger update_connection_state_on_closed_reason after update of closed_r
 drop function terminate_session_if_possible;
 
 commit;
+

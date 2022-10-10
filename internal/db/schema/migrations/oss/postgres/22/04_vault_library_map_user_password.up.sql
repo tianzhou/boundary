@@ -31,3 +31,4 @@ begin;
     for each row execute procedure delete_credential_vault_library_mapping_override_subtype();
 
 commit;
+

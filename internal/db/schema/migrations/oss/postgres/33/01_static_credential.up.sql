@@ -116,3 +116,4 @@ begin;
       ('credential_static_username_password_credential', 1);
 
 commit;
+

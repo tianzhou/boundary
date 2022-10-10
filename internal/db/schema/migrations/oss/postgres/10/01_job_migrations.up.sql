@@ -7,3 +7,4 @@ alter table job_run
         check(length(trim(server_id)) > 0);
 
 commit;
+

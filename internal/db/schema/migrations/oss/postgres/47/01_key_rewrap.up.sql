@@ -21,3 +21,4 @@ create trigger kms_immutable_columns before update on kms_data_key_version
   for each row execute procedure kms_immutable_columns('private_id', 'data_key_id', 'root_key_version_id', 'create_time');
 
 commit;
+

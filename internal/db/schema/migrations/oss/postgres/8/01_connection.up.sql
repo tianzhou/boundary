@@ -23,3 +23,4 @@ where
   sc.session_id = s.public_id;
 
 commit;
+

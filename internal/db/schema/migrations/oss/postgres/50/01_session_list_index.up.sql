@@ -9,3 +9,4 @@ begin;
   create index session_list_pix on session (project_id, user_id, termination_reason) where termination_reason is null;
   analyze session;
 end;
+

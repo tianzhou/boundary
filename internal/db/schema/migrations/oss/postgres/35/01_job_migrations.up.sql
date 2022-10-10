@@ -23,3 +23,4 @@ alter table server_controller
     alter column private_id type wt_controller_id;
 
 commit;
+

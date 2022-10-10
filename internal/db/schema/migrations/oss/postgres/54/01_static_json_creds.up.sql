@@ -62,3 +62,4 @@ begin;
       ('credential_static_json_credential', 1);
 
 commit;
+

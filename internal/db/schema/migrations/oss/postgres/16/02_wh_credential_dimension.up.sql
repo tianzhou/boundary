@@ -98,3 +98,4 @@ begin;
    where current_row_indicator = 'Current'
   ;
 commit;
+

@@ -43,3 +43,4 @@ begin;
     for each row execute procedure delete_session_credentials();
 
 commit;
+

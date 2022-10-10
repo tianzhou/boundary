@@ -88,3 +88,4 @@ create trigger update_session_state before insert on session_state
     for each row execute procedure update_prior_session_state();
 
 commit;
+

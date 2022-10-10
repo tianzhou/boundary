@@ -70,3 +70,4 @@ begin;
     ('plugin_host', 1);
 
 commit;
+

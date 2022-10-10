@@ -125,3 +125,4 @@ create table server_tag (
 );
 
 commit;
+

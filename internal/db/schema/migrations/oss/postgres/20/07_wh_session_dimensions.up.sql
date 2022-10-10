@@ -84,3 +84,4 @@ select -- id is the first column in the target view
 ;
 
 commit;
+

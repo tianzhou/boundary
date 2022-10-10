@@ -19,3 +19,4 @@ begin;
         'wt_add_seconds_to_now returns current_timestamp + sec.';
 
 commit;
+

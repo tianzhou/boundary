@@ -67,3 +67,4 @@ where
   s.public_id = m.scope_id;
 
 commit;
+

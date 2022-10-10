@@ -36,3 +36,4 @@ create trigger immutable_columns before update on recovery_nonces
   for each row execute procedure immutable_columns('nonce', 'create_time');
 
 commit;
+

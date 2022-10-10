@@ -58,3 +58,4 @@ begin;
     for each row execute procedure update_host_catalog_subtype();
 
 commit;
+

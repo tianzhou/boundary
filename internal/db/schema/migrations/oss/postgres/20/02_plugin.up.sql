@@ -71,3 +71,4 @@ begin;
     ('plugin', 1);
 
 commit;
+

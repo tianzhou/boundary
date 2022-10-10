@@ -78,3 +78,4 @@ create trigger delete_auth_method_subtype after delete on auth_password_method
   for each row execute procedure delete_auth_method_subtype();
 
 commit;
+

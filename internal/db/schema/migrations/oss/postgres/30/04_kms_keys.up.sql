@@ -261,3 +261,4 @@ alter table kms_token_key_version rename to kms_deprecated_token_key_version;
 alter table kms_token_key rename to kms_deprecated_token_key;
 
 commit;
+

@@ -23,3 +23,4 @@ begin;
           on pm.password_conf_id = c.password_conf_id;
 
 commit;
+

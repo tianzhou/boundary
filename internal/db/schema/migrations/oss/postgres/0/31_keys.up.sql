@@ -252,3 +252,4 @@ create trigger kms_version_column before insert on kms_token_key_version
     ('kms_root_key_version', 1);
     
 commit;
+

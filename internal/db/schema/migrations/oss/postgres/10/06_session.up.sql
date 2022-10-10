@@ -55,3 +55,4 @@ begin;
     for each row execute procedure revoke_credentials();
 
 commit;
+

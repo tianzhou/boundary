@@ -246,3 +246,4 @@ begin;
     ('auth_password_credential', 1);
 
 commit;
+

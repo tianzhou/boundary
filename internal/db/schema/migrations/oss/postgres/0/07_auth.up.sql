@@ -150,3 +150,4 @@ begin;
     execute procedure update_iam_user_auth_account();
 
 commit;
+

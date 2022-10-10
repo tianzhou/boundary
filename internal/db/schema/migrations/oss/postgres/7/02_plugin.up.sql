@@ -34,3 +34,4 @@ begin;
         for each row execute procedure disallow_system_plugin_deletion();
 
 commit;
+

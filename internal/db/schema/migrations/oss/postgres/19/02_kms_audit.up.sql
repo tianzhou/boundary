@@ -50,3 +50,4 @@ create trigger kms_version_column before insert on kms_audit_key_version
 	for each row execute procedure kms_version_column('audit_key_id');
 
 commit;
+

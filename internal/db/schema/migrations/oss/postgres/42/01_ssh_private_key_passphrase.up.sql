@@ -102,3 +102,4 @@ comment on view credential_vault_library_public is
     'No encrypted data is returned. This view can be used to retrieve data which will be returned external to boundary.';
 
 commit;
+

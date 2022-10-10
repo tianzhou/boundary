@@ -14,3 +14,4 @@ begin;
     'wt_to_sentinel takes a string and returns it as a wt_sentinel';
 
 commit;
+

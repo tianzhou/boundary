@@ -26,3 +26,4 @@ comment on view auth_password_method_with_is_primary is
 
 
 commit;
+

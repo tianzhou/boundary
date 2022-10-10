@@ -373,3 +373,4 @@ values
   ('auth_oidc_account', 1);
 
 commit;
+

@@ -48,3 +48,4 @@ create trigger immutable_columns before update on nonce
   for each row execute procedure immutable_columns('nonce', 'create_time', 'purpose');
 
 commit;
+

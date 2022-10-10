@@ -19,3 +19,4 @@ begin;
         'wt_sub_seconds_from_now returns current_timestamp - sec.';
 
 commit;
+

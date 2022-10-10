@@ -6,3 +6,4 @@ begin;
   alter table session alter constraint session_host_set_id_fkey   deferrable initially deferred;
   alter table session alter constraint session_user_id_fkey       deferrable initially deferred;
 end;
+

@@ -80,3 +80,4 @@ begin;
     'credential_source_all_types is a view where each row contains the credential source id and type.';
 
 commit;
+

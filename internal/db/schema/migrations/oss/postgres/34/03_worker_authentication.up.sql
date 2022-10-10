@@ -146,3 +146,4 @@ create trigger immutable_columns before update on worker_auth_certificate_bundle
   for each row execute procedure immutable_columns('root_certificate_public_key', 'worker_key_identifier', 'cert_bundle');
 
 commit;
+

@@ -68,3 +68,4 @@ begin;
     'No encrypted data is returned. This view can be used to retrieve data which will be returned external to boundary.';
 
 commit;
+

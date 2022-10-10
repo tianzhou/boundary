@@ -28,3 +28,4 @@ create trigger immutable_columns before update on worker_auth_server_led_activat
   for each row execute procedure immutable_columns('worker_id', 'token_id', 'creation_time_encrypted');
 
 commit;
+

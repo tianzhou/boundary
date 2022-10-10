@@ -42,3 +42,4 @@ from
   auth_oidc_managed_group_member_account oidc;
 
 commit;
+

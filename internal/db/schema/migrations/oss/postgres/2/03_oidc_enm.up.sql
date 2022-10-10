@@ -62,3 +62,4 @@ create trigger immutable_columns before update on auth_oidc_signing_alg_enm
   for each row execute procedure immutable_columns('name');
 
 commit;
+

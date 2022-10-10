@@ -10,3 +10,4 @@ create trigger insert_time_column before insert on server
   for each row execute procedure update_time_column();
 
 commit;
+

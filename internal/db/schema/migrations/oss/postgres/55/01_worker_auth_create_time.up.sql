@@ -136,3 +136,4 @@ create trigger insert_worker_auth_authorized before insert on worker_auth_author
   for each row execute function insert_worker_auth_authorized();
 
 commit;
+

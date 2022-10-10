@@ -28,3 +28,4 @@ insert into kms_collection_version(version) values(1);
 update kms_schema_version set version = 'v0.0.2';
 
 commit;
+

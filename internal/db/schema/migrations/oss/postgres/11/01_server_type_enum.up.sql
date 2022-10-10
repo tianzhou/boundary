@@ -25,3 +25,4 @@ alter table server
         on delete restrict;
 
 commit;
+

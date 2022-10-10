@@ -76,3 +76,4 @@ begin;
     for each row execute procedure insert_credential_library_subtype();
 
 commit;
+

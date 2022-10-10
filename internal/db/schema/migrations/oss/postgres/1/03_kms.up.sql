@@ -49,3 +49,4 @@ create trigger kms_version_column before insert on kms_oidc_key_version
 	for each row execute procedure kms_version_column('oidc_key_id');
 
 commit;
+

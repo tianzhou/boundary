@@ -119,3 +119,4 @@ begin;
     ('auth_password_argon2_cred', 1);
 
 commit;
+

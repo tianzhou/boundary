@@ -36,3 +36,4 @@ begin;
   $$ language plpgsql;
 
 commit;
+

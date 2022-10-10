@@ -134,3 +134,4 @@ begin;
     for each row execute function insert_project_id();
 
 commit;
+

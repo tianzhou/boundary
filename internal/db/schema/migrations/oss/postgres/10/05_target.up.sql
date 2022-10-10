@@ -46,3 +46,4 @@ begin;
     cl.public_id = tcl.credential_library_id;
 
 commit;
+

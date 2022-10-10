@@ -110,3 +110,4 @@ create trigger insert_session_state before insert on session_state
     for each row execute procedure insert_session_state();
 
 commit;
+

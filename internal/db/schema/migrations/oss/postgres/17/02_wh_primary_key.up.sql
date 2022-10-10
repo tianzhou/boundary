@@ -4,3 +4,4 @@ begin;
     add primary key (credential_group_key, credential_key);
 
 commit;
+

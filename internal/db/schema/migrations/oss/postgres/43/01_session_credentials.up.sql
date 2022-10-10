@@ -33,3 +33,4 @@ begin;
     for each row execute procedure session_credentials_sha256_credential();
 
 commit;
+

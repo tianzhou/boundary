@@ -91,3 +91,4 @@ create trigger default_create_time_column before insert on db_test_scooter
   for each row execute procedure default_create_time();
 
 commit;
+

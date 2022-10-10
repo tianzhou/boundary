@@ -129,3 +129,4 @@ comment on function immutable_columns() is
   'function used in before update triggers to make columns immutable';
 
 commit;
+

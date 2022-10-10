@@ -650,3 +650,4 @@ begin;
     'Each row may contain encrypted data. This view should not be used to retrieve data which will be returned external to boundary.';
 
 commit;
+

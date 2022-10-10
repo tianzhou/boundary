@@ -32,3 +32,4 @@ create trigger kms_update_time_column before update on kms_schema_version
 insert into kms_schema_version(version) values('v0.0.1');
 
 commit;
+

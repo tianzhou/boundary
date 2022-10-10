@@ -274,3 +274,4 @@ drop table server;
 drop table server_type_enm;
 
 commit;
+

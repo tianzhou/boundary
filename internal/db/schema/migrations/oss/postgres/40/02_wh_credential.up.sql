@@ -11,3 +11,4 @@ begin;
    where credential_purpose = 'application';
 
 commit;
+

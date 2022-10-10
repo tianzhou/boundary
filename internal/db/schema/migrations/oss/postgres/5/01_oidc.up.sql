@@ -79,3 +79,4 @@ comment on view oidc_auth_method_with_value_obj is
 'oidc auth method with its associated value objects (algs, auds, certs, scopes) as columns with | delimited values';
 
 commit;
+

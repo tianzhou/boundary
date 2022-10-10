@@ -52,3 +52,4 @@ begin;
 --   for each row execute procedure log_migration_version();
 -- 
 commit;
+

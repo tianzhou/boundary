@@ -196,3 +196,4 @@ begin;
     ('static_host_set_member', 1);
 
 commit;
+

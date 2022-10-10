@@ -36,3 +36,4 @@ create view session_list as
     s.public_id = ss.session_id;
 
 commit;
+

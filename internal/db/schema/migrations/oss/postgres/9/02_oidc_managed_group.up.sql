@@ -61,3 +61,4 @@ values
   ('auth_oidc_managed_group', 1);
 
 commit;
+

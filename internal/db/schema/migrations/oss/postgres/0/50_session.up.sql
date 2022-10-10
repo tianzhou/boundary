@@ -455,3 +455,4 @@ begin;
     s.public_id = ss.session_id;
 
 commit;
+

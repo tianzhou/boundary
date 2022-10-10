@@ -102,3 +102,4 @@ begin;
 	  select job_plugin_id, job_name, next_scheduled_run from final;
 
 commit;
+

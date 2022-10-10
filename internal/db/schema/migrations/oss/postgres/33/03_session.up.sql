@@ -30,3 +30,4 @@ begin;
     for each row execute procedure immutable_columns('session_id', 'credential_static_id', 'credential_purpose', 'create_time');
 
 commit;
+

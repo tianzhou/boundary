@@ -93,3 +93,4 @@ begin;
          ) as t(second);
 
 commit;
+
